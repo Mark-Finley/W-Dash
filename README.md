@@ -22,7 +22,7 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Mark-Finley/weather-dashboard-mvp.git
+   git clone https://github.com/Mark-Finley/W-Dash.git
    cd weather-dashboard-mvp
    ```
 2. **Create and activate a virtual environment** (optional but recommended):
@@ -64,7 +64,8 @@ Replace "**your_actual_api_key_here**" with your actual OpenWeatherMap API key.
 - Weather Info: "Clear, Temperature: 25°C, Humidity: 60%, Wind Speed: 5 m/s"
 
 ## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+This project is currently under development and not accepting any contributions.
+
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
